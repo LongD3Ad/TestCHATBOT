@@ -2,3 +2,5 @@ Torch
 Transformers
 Bard
 Flask
+Gunicorn
+
