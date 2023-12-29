@@ -1,0 +1,4 @@
+Torch
+Transformers
+Bard
+Flask
