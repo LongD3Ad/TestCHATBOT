@@ -1,6 +1,6 @@
-Torch
-Transformers
-Bard
-Flask
-Gunicorn
+torch==1.13.1
+transformers==4.26.0
+bard==0.1.0
+Flask==2.2.3
+gunicorn==20.1.0
 
